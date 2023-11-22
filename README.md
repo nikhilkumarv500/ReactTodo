@@ -1,8 +1,7 @@
-# React + Vite
+It is a user-friendly solution designed to enhance individual task and assignment management efficiency.
+Leveraging technologies such as ReactJS (Context API’s) , the application provides a seamless and
+interactive user experience. Users can easily create, organize, and prioritize tasks, ensuring a more
+streamlined approach to daily responsibilities.
+Technologies: React.js , HTML, CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the link to this hosted project: https://react-todo-ashen-five.vercel.app/
